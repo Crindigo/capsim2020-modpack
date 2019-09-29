@@ -1,0 +1,25 @@
+{
+	"populate": {
+        "dense_bauxite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_bauxite",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 22
+			},
+            "cluster-count": 1,
+            "chunk-chance": 4,
+			"min-height": 10,
+			"max-height": 60,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        }
+    }
+}

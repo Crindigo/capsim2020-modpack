@@ -1,0 +1,109 @@
+{
+	"populate": {
+        "dense_uranium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_uranium",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 10
+			},
+            "cluster-count": 1,
+            "chunk-chance": 8,
+			"min-height": 0,
+			"max-height": 32,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        },
+        "dense_thorium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_thorium",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 10
+			},
+            "cluster-count": 1,
+            "chunk-chance": 8,
+			"min-height": 0,
+			"max-height": 32,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        },
+        "dense_magnesium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_magnesium",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 13
+			},
+            "cluster-count": 1,
+            "chunk-chance": 8,
+			"min-height": 0,
+			"max-height": 24,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        },
+        "dense_lithium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_lithium",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 16
+			},
+            "cluster-count": 1,
+            "chunk-chance": 8,
+			"min-height": 0,
+			"max-height": 28,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        },
+        "dense_boron": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_boron",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 16
+			},
+            "cluster-count": 1,
+            "chunk-chance": 8,
+			"min-height": 0,
+			"max-height": 28,
+			"retrogen": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+        }
+    }
+}

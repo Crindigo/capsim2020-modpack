@@ -1,0 +1,143 @@
+{
+	"populate": {
+		"dense_iron": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_iron",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 28
+			},
+            "cluster-count": 1,
+            "chunk-chance": 2,
+			"min-height": 0,
+			"max-height": 64,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dense_coal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_coal",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 32
+			},
+			"cluster-count": 1,
+			"chunk-chance": 1,
+			"min-height": 0,
+			"max-height": 128,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dense_gold": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_gold",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 20
+			},
+			"cluster-count": 1,
+			"chunk-chance": 8,
+			"min-height": 0,
+			"max-height": 32,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dense_diamond": {
+			"enabled": false,
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_diamond",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 12
+			},
+			"cluster-count": 1,
+			"chunk-chance": 12,
+			"min-height": 0,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dense_lapis": {
+			"enabled": false,
+			"distribution": "gaussian",
+			"generator": {
+				"block": "contenttweaker:dense_lapis",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 12
+			},
+			"cluster-count": 1,
+			"chunk-chance": 10,
+			"center-height": 16,
+			"spread": 16,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"dense_emerald": {
+			"enabled": false,
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:dense_emerald",
+                "material": ["minecraft:stone", "quark:slate", "quark:biome_cobblestone", "quark:marble", "quark:limestone"],
+				"cluster-size": 1
+			},
+			"cluster-count": {
+				"min": 3,
+				"max": 6
+			},
+			"min-height": 4,
+			"max-height": 28,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "dictionary",
+						"entry": ["MOUNTAIN", "HILLS", "MESA"]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+    }
+}

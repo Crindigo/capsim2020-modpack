@@ -1,0 +1,14 @@
+logs
+*.log
+backups
+mods
+saves
+usercache.json
+usernamecache.json
+realms_persistence.json
+.curseclient
+local
+crash-reports
+/*.dll
+XaeroWaypoints
+XaeroWorldMap

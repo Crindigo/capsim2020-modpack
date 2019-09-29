@@ -1,0 +1,20 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "transform": "forge:default-block",
+    "model": "contenttweaker:dense_ore",
+    "textures": {
+      "particle": "minecraft:blocks/stone",
+      "texture": "minecraft:blocks/stone",
+      "ore": "contenttweaker:blocks/denseore_metal"
+    }
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ]
+  }
+}
