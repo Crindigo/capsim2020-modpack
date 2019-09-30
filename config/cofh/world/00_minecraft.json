@@ -382,7 +382,7 @@
 				"material": "minecraft:netherrack",
 				"cluster-size": 14
 			},
-			"cluster-count": 16,
+			"cluster-count": 24,
 			"min-height": 10,
 			"max-height": 118,
 			"retrogen": false,

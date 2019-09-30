@@ -91,7 +91,7 @@
 			}
 		},
 		"dense_nickel": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": "contenttweaker:dense_nickel",
