@@ -1,0 +1,42 @@
+{
+	"machine": "laser_assembler",
+	"registryName": "laserasm_te_machine_frame",
+	"recipeTime": 1200,
+	"requirements": [
+		{
+			"type": "meklaser",
+			"io-type": "input",
+			"energy": 14400000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:blockGlassHardened",
+            "amount": 32
+        },
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "ore:gearTin",
+			"amount": 8
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "ore:plateSteel",
+			"amount": 32
+		},
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "tin",
+			"amount": 1440
+		},
+		{
+			"type": "item",
+			"io-type": "output",
+			"item": "thermalexpansion:frame@0",
+			"amount": 1
+		}
+	]
+}

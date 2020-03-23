@@ -5,7 +5,7 @@ fov:0.0
 gamma:1.0
 saturation:0.0
 renderDistance:12
-guiScale:3
+guiScale:2
 particles:0
 bobView:false
 anaglyph3d:false
@@ -85,6 +85,13 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -104,17 +111,11 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_key.betterfoliage.gui:66
 key_key.exchanger_range_switch:51
 key_key.exchanger_mode_switch:39
 key_key.exchanger_force_drop_items:52
+key_key.exchanger_directional_placement:40
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:27
 key_key.ftbquests.quests:0
@@ -131,7 +132,6 @@ key_simplyjetpacks.keybind.engine:34
 key_simplyjetpacks.keybind.hover:38
 key_simplyjetpacks.keybind.charger:25
 key_simplyjetpacks.keybind.emergencyhover:19
-key_key.stellarapi.focusgui.description:22
 key_key.toastcontrol.clear:36
 key_Strip World:211
 key_Dress World:210
@@ -141,6 +141,7 @@ key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
@@ -202,7 +203,9 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
+key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.clipboardPaste:27
+key_keys.techreborn.config:25
 key_mekanism.key.mode:50
 key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
@@ -211,18 +214,17 @@ key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_invtweaks.key.sort:19
 key_key.porterNextDestination:27
 key_key.porterPrevDestination:26
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
-key_keys.techreborn.config:25
-key_gui.xaero_minimap_settings:21
+key_invtweaks.key.sort:19
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
 key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
 key_gui.xaero_toggle_map:35
 key_gui.xaero_enlarge_map:44
 key_gui.xaero_waypoints_key:22
@@ -230,9 +232,11 @@ key_gui.xaero_zoom_in:23
 key_gui.xaero_zoom_out:24
 key_gui.xaero_new_waypoint:48
 key_gui.xaero_display_all_sets:0
+key_gui.xaero_minimap_settings:21
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
-key_dsurround.cfg.keybind.AnimaniaBadges:0
+key_gui.xaero_map_zoom_in:0
+key_gui.xaero_map_zoom_out:0
 key_enderio.keybind.inventory:23
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:34
@@ -243,6 +247,7 @@ key_enderio.keybind.stepassist:0
 key_enderio.keybind.speed:0
 key_enderio.keybind.jump:0
 key_enderio.keybind.top:0
+key_enderio.keybind.tnt:0
 key_enderio.keybind.yetawrenchmode:21
 key_enderio.keybind.magnet:0
 key_enderio.keybind.fovreset:0

@@ -7,7 +7,7 @@ function denseRule(block as string, drop as IItemStack) as Rule
     return Dropt.rule()
         .matchBlocks([block])
         .addDrop(Dropt.drop()
-            .items([drop], Dropt.range(32))
+            .items([drop], Dropt.range(16))
         );
 }
 
