@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -4.0d,
+	description: "Can actually be dangerous to humans.",
+	text: [
+		"Take this so you don't regret where you build your base. You should technically be safe if you keep it under 100 uRads/t.",
+		"It's also recommended to avoid wastelands and the Nether until you have radiation protection."
+	],
+	tasks: [{
+		uid: -854157275,
+		title: "The Planet's Radiance",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: 1264604167,
+		item: "nuclearcraft:geiger_counter",
+		type: "item"
+	}]
+}

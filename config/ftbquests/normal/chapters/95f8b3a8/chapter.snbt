@@ -1,0 +1,7 @@
+{
+	always_invisible: 0,
+	default_quest_shape: "",
+	icon: "minecraft:red_flower",
+	title: "Nature's Bounties",
+	group: 0
+}

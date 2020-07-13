@@ -1,0 +1,20 @@
+{
+	emergency_items: [{
+		item: "minecraft:apple"
+	}],
+	drop_loot_crates: 0,
+	default_autoclaim_rewards: "disabled",
+	default_quest_shape: "circle",
+	loot_crate_no_drop: {
+		boss: 0,
+		passive: 4000,
+		monster: 600
+	},
+	emergency_items_cooldown: "5m",
+	default_consume_items: 0,
+	disable_gui: 0,
+	version: 8,
+	default_reward_team: 0,
+	default_quest_disable_jei: 0,
+	grid_scale: 0.5d
+}

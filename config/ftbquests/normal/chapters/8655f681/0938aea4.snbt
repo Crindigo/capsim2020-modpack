@@ -1,0 +1,51 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"A company like ours requires a steady supply of cheese. Make those animals work hard!",
+		"Animal Rancher machines can do the work, then just pipe milk into cheese molds."
+	],
+	title: "Cheese Sampler",
+	tasks: [
+		{
+			uid: -1162755286,
+			item: "animania:friesian_cheese_wheel",
+			consume_items: 1,
+			count: 8,
+			type: "item"
+		},
+		{
+			uid: -1637334692,
+			item: "animania:holstein_cheese_wheel",
+			consume_items: 1,
+			count: 8,
+			type: "item"
+		},
+		{
+			uid: -836578838,
+			item: "animania:jersey_cheese_wheel",
+			consume_items: 1,
+			count: 8,
+			type: "item"
+		},
+		{
+			uid: -467589452,
+			item: "animania:goat_cheese_wheel",
+			consume_items: 1,
+			count: 8,
+			type: "item"
+		},
+		{
+			uid: -1169065500,
+			item: "animania:sheep_cheese_wheel",
+			consume_items: 1,
+			count: 8,
+			type: "item"
+		}
+	],
+	rewards: [{
+		uid: 1524205368,
+		ftb_money: 400,
+		type: "ftbmoney:money"
+	}]
+}

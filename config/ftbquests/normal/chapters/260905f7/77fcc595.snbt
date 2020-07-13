@@ -1,0 +1,28 @@
+{
+	x: -4.0d,
+	y: -4.0d,
+	description: "Designed for the young and the young at heart.",
+	text: [
+		"This mines the chunk that it's in, so for easy access you probably want it on the edge of a chunk. Use F9.",
+		"**WARNING** Only place one per chunk or it may explode. Still safe enough for kids, I'm sure."
+	],
+	tasks: [{
+		uid: 1284639602,
+		icon: "simplequarry:fuel_quarry",
+		title: "Worldstripping Starter Pack",
+		type: "checkmark"
+	}],
+	rewards: [
+		{
+			uid: -1037387097,
+			item: "simplequarry:fuel_quarry",
+			type: "item"
+		},
+		{
+			uid: 465852505,
+			item: "minecraft:coal",
+			count: 64,
+			type: "item"
+		}
+	]
+}

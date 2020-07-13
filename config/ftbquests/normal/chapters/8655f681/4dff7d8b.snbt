@@ -1,0 +1,56 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: ["With meals like this, our monopoly is secure."],
+	title: "The Ultimate Menu",
+	tasks: [
+		{
+			uid: -1374083249,
+			item: "harvestcraft:thankfuldinneritem",
+			consume_items: 1,
+			count: 64,
+			type: "item"
+		},
+		{
+			uid: 369624567,
+			item: "harvestcraft:koreandinneritem",
+			consume_items: 1,
+			count: 64,
+			type: "item"
+		},
+		{
+			uid: -1294547863,
+			item: "harvestcraft:southernstylebreakfastitem",
+			consume_items: 1,
+			count: 64,
+			type: "item"
+		},
+		{
+			uid: 320684101,
+			item: "harvestcraft:meatfeastpizzaitem",
+			consume_items: 1,
+			count: 64,
+			type: "item"
+		},
+		{
+			uid: -1053615576,
+			item: "harvestcraft:gourmetvenisonburgeritem",
+			consume_items: 1,
+			count: 64,
+			type: "item"
+		},
+		{
+			uid: 319664211,
+			item: "harvestcraft:cornedbeefbreakfastitem",
+			consume_items: 1,
+			count: 64,
+			type: "item"
+		}
+	],
+	rewards: [{
+		uid: -1244808777,
+		ftb_money: 10000,
+		type: "ftbmoney:money",
+		random_bonus: 5000
+	}]
+}

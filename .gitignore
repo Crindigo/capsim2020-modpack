@@ -11,5 +11,6 @@ local
 crash-reports
 /*.dll
 XaeroWaypoints
+XaeroWaypoints_BACKUP*
 XaeroWorldMap
 .mixin.out/

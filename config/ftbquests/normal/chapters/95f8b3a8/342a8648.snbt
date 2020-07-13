@@ -1,0 +1,50 @@
+{
+	x: 0.0d,
+	can_repeat: 1,
+	y: 0.0d,
+	description: "Vanilla is a separate quest.",
+	title: "Vanilla Flowers",
+	tasks: [{
+		uid: 1279365459,
+		consume_items: 1,
+		count: 256,
+		type: "item",
+		items: [
+			{
+				item: "minecraft:red_flower"
+			},
+			{
+				item: "minecraft:yellow_flower"
+			},
+			{
+				item: "minecraft:red_flower 1 1"
+			},
+			{
+				item: "minecraft:red_flower 1 2"
+			},
+			{
+				item: "minecraft:red_flower 1 3"
+			},
+			{
+				item: "minecraft:red_flower 1 4"
+			},
+			{
+				item: "minecraft:red_flower 1 5"
+			},
+			{
+				item: "minecraft:red_flower 1 6"
+			},
+			{
+				item: "minecraft:red_flower 1 7"
+			},
+			{
+				item: "minecraft:red_flower 1 8"
+			}
+		]
+	}],
+	rewards: [{
+		uid: -1236562544,
+		ftb_money: 25,
+		type: "ftbmoney:money"
+	}]
+}

@@ -15,9 +15,6 @@
 <ore:oreSilverDense>.add(<contenttweaker:dense_silver>);
 <ore:oreTinDense>.add(<contenttweaker:dense_tin>);
 
-// split plastic/rubber, so plastic has to use pneumaticcraft process.
-<ore:itemRubber>.remove(<industrialforegoing:plastic>);
-
 // top tier circuits
 <ore:circuitMaster>.add(<mekanism:controlcircuit:3>);
 //<ore:circuitUltimate>.add(<techreborn:part:0>); // removing TR circuits

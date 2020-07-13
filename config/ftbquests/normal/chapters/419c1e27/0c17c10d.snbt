@@ -1,0 +1,12 @@
+{
+	shape: "diamond",
+	x: 0.0d,
+	y: -1.0d,
+	description: "You've earned it, even if the planet and wildlife would disagree.",
+	title: "Start Your Retirement",
+	tasks: [{
+		uid: 1630514850,
+		type: "ftbmoney:money",
+		value: 1000000000
+	}]
+}

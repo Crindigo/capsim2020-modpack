@@ -19,7 +19,7 @@ Dropt.list("dense_ores")
     .add(denseRule("contenttweaker:dense_nickel", <thermalfoundation:ore:5>))
 
     .add(denseRule("contenttweaker:dense_osmium", <mekanism:oreblock:0>))
-    .add(denseRule("contenttweaker:dense_bauxite", <techreborn:ore:4>))
+    .add(denseRule("contenttweaker:dense_bauxite", <immersiveengineering:ore:1>))
     .add(denseRule("contenttweaker:dense_uranium", <nuclearcraft:ore:4>))
     .add(denseRule("contenttweaker:dense_lithium", <nuclearcraft:ore:6>))
     .add(denseRule("contenttweaker:dense_magnesium", <nuclearcraft:ore:7>))

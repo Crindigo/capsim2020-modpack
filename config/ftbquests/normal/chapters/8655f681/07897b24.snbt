@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: ["Here at Stuffer's, we pride ourselves on the quality of our prepackaged microwavable meals. We're looking for new meals to add to our menu, so please send what you can."],
+	tasks: [{
+		uid: -576560571,
+		title: "Become a Master Chef",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: 1873064853,
+		ftb_money: 5,
+		type: "ftbmoney:money"
+	}]
+}

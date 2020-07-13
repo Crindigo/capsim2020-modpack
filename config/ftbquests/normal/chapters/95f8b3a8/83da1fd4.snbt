@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	can_repeat: 1,
+	y: 1.0d,
+	description: "Doesn't sell for as much as you'd hope.",
+	title: "The World's Most Expensive Spice",
+	tasks: [{
+		uid: -1247393218,
+		item: "plants2:saffron",
+		count: 256,
+		type: "item"
+	}],
+	rewards: [{
+		uid: 394708989,
+		ftb_money: 100,
+		type: "ftbmoney:money"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	can_repeat: 1,
+	y: 1.0d,
+	description: "Remember when that vanilla extract smelled so good so you sneaked a spoonful of it?",
+	tasks: [{
+		uid: -359364412,
+		item: "harvestcraft:vanillabeanitem",
+		consume_items: 0,
+		count: 256,
+		type: "item"
+	}],
+	rewards: [{
+		uid: 573944249,
+		ftb_money: 25,
+		type: "ftbmoney:money"
+	}]
+}

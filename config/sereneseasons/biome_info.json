@@ -2,262 +2,262 @@
   "minecraft:jungle_edge": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "abyssalcraft:darklands_plains": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:tropical_forest_hills": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:dense_scrub": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:flower_island": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:mystic_grove": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:badlands": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:desert_shrubland": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "conquest:jungle_mod": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:deep_ocean": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:ominous_woods": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mesa_rock": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:arid_highland": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:canyon": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mesa": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_desert": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:coral_reef": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_jungle": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:dry_scrub": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:jungle_hills": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:hot_mountain_trees": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:rainforest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:subtropical_forest_hills": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "integrateddynamics:biome_meneglin": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "abyssalcraft:darklands_mountains": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:tropical_forest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:bayou": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:savanna_rock": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:river": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:xeric_shrubland": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:bamboo_forest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "conquest:bamboo_forest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:brushland": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:dense_scrub_hills": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:oasis": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:sacred_springs": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_jungle_edge": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:kelp_forest": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "abyssalcraft:darklands_forest": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:tropical_island": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mesa_clear_rock": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "abyssalcraft:coralium_infested_swamp": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "abyssalcraft:darklands": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_mesa_rock": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:overgrown_cliffs": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "thaumcraft:magical_forest": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "conquest:mesa_extreme_mod": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:floodplains": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:desert_hills": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:mini_jungle": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:eucalyptus_forest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "conquest:desert_mod": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:wasteland": {
     "enable_seasonal_effects": false,
@@ -267,37 +267,37 @@
   "minecraft:desert": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_mesa_clear_rock": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:red_desert": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:outback": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:ocean": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:jungle": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:lush_desert": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:volcanic_island": {
     "enable_seasonal_effects": true,
@@ -307,17 +307,17 @@
   "minecraft:mushroom_island_shore": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_savanna_rock": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "conquest:red_desert": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:crag": {
     "enable_seasonal_effects": false,
@@ -327,71 +327,71 @@
   "biomesoplenty:tropical_rainforest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_savanna": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:dry_scrub_hills": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mushroom_island": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:hot_mountain": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:mangrove": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "traverse:mountainous_desert": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:subtropical_forest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:mutated_mesa": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "climaticbiomesjbg:pine_swamp": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:white_beach": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "abyssalcraft:darklands_hills": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
-    "disable_crops": false
+    "disable_crops": true
   },
   "minecraft:savanna": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   },
   "biomesoplenty:scrubland": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
+    "disable_crops": true
   }
 }

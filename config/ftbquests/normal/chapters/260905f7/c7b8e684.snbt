@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: -368542402,
+		title: "jjj kkk",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: -1675390951,
+		ftb_money: 5,
+		type: "ftbmoney:money"
+	}]
+}
